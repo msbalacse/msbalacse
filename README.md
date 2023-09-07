@@ -1,4 +1,5 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm msbala
+<h1>Hello 👋 I'm msbala!</h1>
+<h3>🌟 It's an absolute delight to meet you</h3>
 
 ### Links:
 
@@ -17,11 +18,13 @@
 
 ### UI Design:
 
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)  
 
-👨‍💻 All of my projects are available at [https://msbalacse.vercel.app/](https://msbalacse.vercel.app/)
+ <!-- 👨‍💻 All of my projects are available at [https://msbalacse.vercel.app/](https://msbalacse.vercel.app/) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msbalacse&show_icons=true&locale=en&layout=compact" alt="msbalacse" /></p>
-</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msbalacse&" alt="msbalacse" /></p>
+
+### Exploration:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msbalacse&show_icons=true&locale=en&layout=compact" alt="msbalacse" /></p>
