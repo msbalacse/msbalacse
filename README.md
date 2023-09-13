@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leahmvicente/)
 [![Personal Website](https://i.imgur.com/pTJjlUS.png)](https://msbalacse.vercel.app/)
-[![Resume](https://i.imgur.com/DkeS2Dy.png)](https://leahvicente.com/LeahVicenteResume.pdf)
+[![Resume](https://drive.google.com/file/d/1XdmI_81HL-W5vEB07eFV6SQxbpneT10i/view)
 
 ### Tech Stack:
 
