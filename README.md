@@ -1,5 +1,3 @@
-<h1>Hello 👋 I'm msbala!</h1>
-<h3>🌟 It's an absolute delight to meet you</h3>
 
 ### Links:
 
