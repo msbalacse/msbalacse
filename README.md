@@ -1,21 +1,27 @@
+## 👋 Hello, I am Balamurugan
 
-### Links:
+- 💎 I make something useful ~~or useless~~
+- 👨‍💻 Software Engineer
+- 🧙‍♂️ Java, Typescript Programmer
+- 📍 Madurai, India.
+
+##
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leahmvicente/)
 [![Personal Website](https://i.imgur.com/pTJjlUS.png)](https://msbalacse.vercel.app/)
 [![Resume](https://i.imgur.com/DkeS2Dy.png)](https://drive.google.com/file/d/1XdmI_81HL-W5vEB07eFV6SQxbpneT10i/view)
 
-### Tech Stack:
+### Programming Language
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Programming Language](https://skillicons.dev/icons?i=java,cs,typescript,js,html,css)
 
-### UI Design:
+### Tech Stack
 
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)  
+![Tech Stack](https://skillicons.dev/icons?i=react,tailwindcss,materialui,redux,sass,styledcomponents,spring,postgres,nodejs,svg)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=npm,maven,git,github,postman,vite,vscode,idea,vercel,netlify,figma)
 
  <!-- 👨‍💻 All of my projects are available at [https://msbalacse.vercel.app/](https://msbalacse.vercel.app/) -->
 
